@@ -9,6 +9,7 @@ You can find the library here: https://github.com/fzaidi2014/dreamai
 Any kind of feedback is much appreciated.
 
 We will use our object detection model that we trained using DreamAI in https://github.com/HamzaFarhan/COCO-Object-Detection-using-DreamAI
+
 The user will select an RoI in a video and then a bounding box will be made around any person who enters that region.
 
 # Usage
